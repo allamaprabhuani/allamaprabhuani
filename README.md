@@ -5,4 +5,4 @@ I started with Excel VBA to automate tracking my pocket money and expenses. Dran
 
 Extended this to create some VBA based tools to automate airframe structural hand calculations from E.F. Bruhn, Michael Niu, Proprietary Design Manuals. One of which made 💰.
 
-Currently trying to accelerate FEM solvers. 
+Currently exploring and trying to accelerate FEM solvers. 
