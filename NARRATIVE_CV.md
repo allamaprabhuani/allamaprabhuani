@@ -18,7 +18,7 @@ I am lead author of [Machine learning for computational fracture and damage mech
 
 Before doctoral research, I founded Aeroknacks and built aerospace structural-analysis and hand-calculation automation tools. The work translated established references, including E. F. Bruhn, Michael Niu, Boeing Design Manuals, and ESDU data, into Excel-VBA and engineering-software workflows for fastener load transfer, lug strength, plastic bending, buckling, composite laminates, and bolted-joint stress fields.
 
-The open-source [BJSFM](https://github.com/allamaprabhuani/bjsfm) project grew from this experience. It implements analytical stress-field methods for anisotropic composite plates.
+This background continues to shape the software I build: technically grounded, transparent, and useful to engineers.
 
 ## Teaching, education, and recognition
 
