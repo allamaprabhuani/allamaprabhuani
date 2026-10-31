@@ -1,5 +1,7 @@
 # Allamaprabhu Ani
 
+![Approximate profile views](https://hits.sh/github.com/allamaprabhuani.svg?label=profile%20views&color=2b6b85)
+
 PhD candidate in computational mechanics and scientific machine learning at **City, St George's, University of London**. I build transparent computational tools for fracture and damage mechanics, with a focus on differentiable simulation, GPU computing, inverse problems, and engineering applications of AI.
 
 [Portfolio](https://allamaprabhuani.github.io) · [PhAST documentation](https://cems-lab.github.io/PhAST/) · [Google Scholar](https://scholar.google.com/citations?user=dX3xKGsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/allamaprabhu-ani) · [Email](mailto:allamaprabhuani@gmail.com)
