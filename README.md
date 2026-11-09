@@ -8,7 +8,7 @@ PhD candidate in computational mechanics and scientific machine learning at **Ci
 
 ## Selected work
 
-- **[PhAST](https://cems-lab.github.io/PhAST/)**: a public PyTorch-native, GPU-accelerated differentiable physics engine for phase-field fracture. The associated [arXiv preprint](https://arxiv.org/abs/2606.23458) presents the formulation, numerical benchmarks, and inverse-analysis examples. [Source code](https://github.com/CEMS-Lab/PhAST)
+- **[PhAST](https://cems-lab.github.io/PhAST/)**: a public PyTorch-native, GPU-accelerated differentiable physics engine for phase-field fracture. The associated [journal article](https://doi.org/10.1016/j.cma.2026.119547) in *Computer Methods in Applied Mechanics and Engineering* presents the formulation, numerical benchmarks, and inverse-analysis examples. An earlier [preprint](https://arxiv.org/abs/2606.23458) is also available. [Source code](https://github.com/CEMS-Lab/PhAST)
 - **[Machine learning for computational fracture and damage mechanics](https://doi.org/10.1016/j.engfracmech.2025.111778)**: lead-authored review in *Engineering Fracture Mechanics* (2026), with collaborators at EPFL, the University of Florida, and City St George's.
 - **[Open tutorials](https://allamaprabhuani.github.io/tutorials/)**: runnable material on PyTorch, neural operators, physics-informed neural networks, and their computational-mechanics context. I created these while assisting Dr Sathiskumar Anusuya Ponnusami's teaching at Queen Mary University of London.
 
